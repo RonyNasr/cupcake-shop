@@ -1,0 +1,18 @@
+h1,h2{
+  font-family: 'ThirstyRoughReg', cursive;
+  text-align: center;
+}
+
+p{
+  font-family: fantasy;
+}
+
+p.intro{
+  font-style: italic;
+}
+
+
+.flashy{
+  color: red;
+  font-style: italic;
+}
