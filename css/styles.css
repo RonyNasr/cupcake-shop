@@ -30,3 +30,20 @@ p.intro{
   color:orange;
   font-style: italic;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.sidebar{
+  font-family: cursive;
+  width: 20%;
+  float: left;
+  background-color: grey;
+}
+.banner{
+align-self: center;
+
+
+}
