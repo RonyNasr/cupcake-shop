@@ -1,6 +1,14 @@
-h1,h2{
+h1{
   font-family: 'ThirstyRoughReg', cursive;
   text-align: center;
+  color:brown;
+}
+
+
+h2{
+  font-family: 'ThirstyRoughReg', cursive;
+  text-align: center;
+  color:orange;
 }
 
 p{
@@ -14,5 +22,11 @@ p.intro{
 
 .flashy{
   color: red;
+  font-style: italic;
+}
+
+.best{
+  font-weight: bolder;
+  color:orange;
   font-style: italic;
 }
